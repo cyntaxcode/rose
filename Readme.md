@@ -1,8 +1,13 @@
-#Rose - Custom Home Screen Icons On ATV-3
+# Rose - Custom Home Screen Icons On ATV-3
+
+
+## Star this project if you want more support and tweaks
 
 
 ## Why make software for a 2013 device?
 Cause I can. I guess.
+
+
 
 ## Is more to come?
 Yes, I hope to eventually get into actually making a usable package manager to some degree depending on the demand of these projects.
